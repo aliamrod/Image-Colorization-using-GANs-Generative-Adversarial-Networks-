@@ -3,7 +3,7 @@
 
 ## Introduction to GANs
 
-Generative Adversarial Networks (GANs) were developed in 2014 by Ian Goodfellow and his teammates. They proposed a novel framework for estimating generative models via an adversarial process, in which one simulataneously trains two models: a generative model G that captures the data distribution, and a discrimative model D that estimates the probability that a sample came from the training data rather than G. 
+Generative Adversarial Networks (GANs) were developed in 2014 by Ian Goodfellow and his teammates. They proposed a novel framework for estimating generative models via an adversarial process, in which one simulataneously trains two models: a generative model G that captures the data distribution, and a discrimative model D that estimates the probability that a sample came from the training data rather than G. The training procedure for G is to maximize the probability of D making a mistake. 
 
 A generative adversarial network (GAN) has two parts:
   * The *generator* learns to generate plausible data. The generated instances become negative training examples for the discriminator.
