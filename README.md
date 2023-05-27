@@ -26,9 +26,10 @@ A generative adversarial network (GAN) has two parts:
 [2] "Generative adversarial network-created brain SPECTs of cerebral ischemia are indistinguishable to scans from real patients".
 
 [3] "A Gentle Introduction to Generative Adversarial Networks (GANs).
+
 [4] "Overview of GAN Structure". 
 
-[5]
+[5] ["Generative Adversarial Networks". ]([url](https://arxiv.org/abs/1406.2661))
 
 [6]
 
